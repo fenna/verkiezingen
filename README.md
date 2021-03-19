@@ -32,7 +32,8 @@ To create plots start jupyter notebooks and run barplot.ipynb
 
 
 ## Licence
-https://github.com/fenna/verkiezingen/blob/main/LICENSE
+
+<a href = "https://github.com/fenna/verkiezingen/blob/main/LICENSE"> Mozilla License </a>
 
 
 
