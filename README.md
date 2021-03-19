@@ -9,8 +9,8 @@ The script barplot creates plots for every provence.
 
 ## Built with
 
-python 3.9.1
-pandas 15.1.0
+- python 3.9.1
+- pandas 15.1.0
 
 ## Run in the terminal
 
@@ -31,6 +31,8 @@ curl https://d2vz64kg7un9ye.cloudfront.net/data/001.json?v=1616023447 > 001.json
 To create plots start jupyter notebooks and run barplot.ipynb
 
 
+## Licence
+https://github.com/fenna/verkiezingen/blob/main/LICENSE
 
 
 
